@@ -1,0 +1,67 @@
+skill,domain
+Python,Python
+Pandas,Python
+NumPy,Python
+Django,Python
+Flask,Python
+FastAPI,Python
+Matplotlib,Python
+Scikit-learn,ML
+TensorFlow,ML
+PyTorch,ML
+Keras,ML
+Machine Learning,ML
+Deep Learning,ML
+NLP,ML
+Computer Vision,ML
+React,System Design
+Node.js,System Design
+REST API,System Design
+Microservices,System Design
+Docker,System Design
+Kubernetes,System Design
+AWS,System Design
+System Design,System Design
+MySQL,DBMS
+PostgreSQL,DBMS
+MongoDB,DBMS
+SQL,DBMS
+SQLite,DBMS
+Redis,DBMS
+Oracle,DBMS
+Linux,OS
+Bash,OS
+Shell Scripting,OS
+Threads,OS
+Process Management,OS
+Unix,OS
+TCP/IP,CN
+HTTP,CN
+DNS,CN
+Sockets,CN
+Networking,CN
+OSI Model,CN
+HTTPS,CN
+OOP,OOP
+Java,OOP
+C++,OOP
+Inheritance,OOP
+Polymorphism,OOP
+Encapsulation,OOP
+Abstraction,OOP
+Binary Search,DSA
+Arrays,DSA
+Linked Lists,DSA
+Trees,DSA
+Graphs,DSA
+Dynamic Programming,DSA
+Sorting,DSA
+Recursion,DSA
+Data Structures,DSA
+Algorithms,DSA
+Communication,HR
+Leadership,HR
+Teamwork,HR
+Problem Solving,HR
+Time Management,HR
+Agile,HR
