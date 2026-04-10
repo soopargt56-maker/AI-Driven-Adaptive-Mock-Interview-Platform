@@ -1,0 +1,72 @@
+skill,domain,sub_domain,notes
+Python,Python,python_core,Core language features
+Django,Python,python_web,Python web framework
+FastAPI,Python,python_web,Python async web framework
+Flask,Python,python_web,Python micro framework
+NumPy,ML,ml_tools,Numerical computing
+Pandas,ML,ml_tools,Data analysis
+Matplotlib,ML,ml_tools,Data visualisation
+scikit-learn,ML,ml_core,Classical ML
+TensorFlow,ML,dl_frameworks,Deep learning framework
+PyTorch,ML,dl_frameworks,Deep learning framework
+Keras,ML,dl_frameworks,High-level DL API
+Hugging Face,ML,dl_frameworks,NLP models
+XGBoost,ML,ml_core,Gradient boosting
+LightGBM,ML,ml_core,Gradient boosting
+React,System Design,web_frontend,Frontend JS framework
+Angular,System Design,web_frontend,Frontend TS framework
+Vue,System Design,web_frontend,Frontend JS framework
+Svelte,System Design,web_frontend,Frontend framework
+TypeScript,System Design,web_frontend,Typed JavaScript
+JavaScript,System Design,web_frontend,Core web language
+HTML,System Design,web_frontend,Markup language
+CSS,System Design,web_frontend,Styling
+Tailwind,System Design,web_frontend,CSS framework
+Next.js,System Design,web_frontend,React SSR framework
+Node.js,System Design,web_backend,JS backend runtime
+Express,System Design,web_backend,Node.js framework
+GraphQL,System Design,web_backend,Query language for APIs
+REST,System Design,web_backend,API architecture style
+Docker,System Design,devops,Containerisation
+Kubernetes,System Design,devops,Container orchestration
+k8s,System Design,devops,Container orchestration
+Terraform,System Design,devops,Infrastructure as code
+Jenkins,System Design,devops,CI/CD automation
+GitHub Actions,System Design,devops,CI/CD in GitHub
+CI/CD,System Design,devops,Continuous integration and delivery
+AWS,System Design,cloud,Amazon cloud platform
+GCP,System Design,cloud,Google cloud platform
+Azure,System Design,cloud,Microsoft cloud platform
+MySQL,DBMS,relational,Relational database
+PostgreSQL,DBMS,relational,Relational database
+SQLite,DBMS,relational,Lightweight relational database
+MongoDB,DBMS,nosql,Document database
+Redis,DBMS,nosql,In-memory key-value store
+Cassandra,DBMS,nosql,Wide-column distributed database
+DynamoDB,DBMS,nosql,AWS managed NoSQL
+Elasticsearch,DBMS,nosql,Search and analytics engine
+C,DSA,dsa_core,Systems programming language
+C++,DSA,dsa_core,Systems and competitive programming
+Java,OOP,oop_core,Object-oriented language
+Kotlin,OOP,oop_core,Modern JVM language
+C#,OOP,oop_core,Microsoft OOP language
+Go,System Design,web_backend,Backend systems language
+Rust,DSA,dsa_core,Systems programming language
+Scala,ML,ml_tools,JVM functional language
+R,ML,ml_tools,Statistical computing
+MATLAB,ML,ml_tools,Numerical computing
+Bash,OS,os_core,Shell scripting
+Linux,OS,os_core,Operating system
+PowerShell,OS,os_core,Windows scripting
+Git,System Design,devops,Version control
+Kafka,System Design,web_backend,Distributed event streaming
+RabbitMQ,System Design,web_backend,Message broker
+Nginx,System Design,web_backend,Web server and reverse proxy
+Apache,System Design,web_backend,Web server
+MediaPipe,ML,ml_tools,Computer vision pipeline
+OpenCV,ML,ml_tools,Computer vision library
+spaCy,ML,dl_frameworks,NLP library
+NLTK,ML,dl_frameworks,NLP toolkit
+Swift,OOP,oop_core,iOS/macOS language
+Ruby,OOP,oop_core,Dynamic OOP language
+PHP,System Design,web_backend,Web scripting language

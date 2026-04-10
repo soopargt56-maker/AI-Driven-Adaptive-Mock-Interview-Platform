@@ -1,0 +1,56 @@
+INFO:     Will watch for changes in these directories: ['/Users/praneetsharma/Downloads/interview platform ']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [40193] using StatReload
+INFO:     Started server process [40195]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:53239 - "POST /resume HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53239 - "OPTIONS /session/start HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53239 - "POST /session/start HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53244 - "OPTIONS /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53244 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53249 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53251 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53251 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53255 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53255 - "GET /dashboard/76682c22-675d-441c-93c1-be7ef2964a54 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53256 - "GET /dashboard/76682c22-675d-441c-93c1-be7ef2964a54 HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'files (2)/c4_feedback.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [40195]
+INFO:     Started server process [40206]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'backend/routes/resume.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [40206]
+INFO:     Started server process [40208]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:53335 - "GET /dashboard/76682c22-675d-441c-93c1-be7ef2964a54 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53334 - "GET /dashboard/76682c22-675d-441c-93c1-be7ef2964a54 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53343 - "POST /resume HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53343 - "POST /session/start HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53345 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53353 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53356 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53356 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53356 - "POST /session/answer HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53356 - "GET /dashboard/3cf18d99-9277-4066-9f5f-c00aab58f6aa HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53357 - "GET /dashboard/3cf18d99-9277-4066-9f5f-c00aab58f6aa HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'files (2)/question_bank.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [40208]
+INFO:     Started server process [40282]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:53397 - "GET /dashboard/3cf18d99-9277-4066-9f5f-c00aab58f6aa HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53398 - "GET /dashboard/3cf18d99-9277-4066-9f5f-c00aab58f6aa HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53421 - "GET /dashboard/3cf18d99-9277-4066-9f5f-c00aab58f6aa HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53422 - "GET /dashboard/3cf18d99-9277-4066-9f5f-c00aab58f6aa HTTP/1.1" 200 OK

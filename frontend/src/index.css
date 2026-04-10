@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #10212b;
+  background:
+    radial-gradient(circle at top left, rgba(242, 106, 75, 0.14), transparent 34%),
+    radial-gradient(circle at bottom right, rgba(36, 106, 115, 0.12), transparent 30%),
+    #f8efe4;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app-shell {
+  @apply mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8;
+}
+
+.glass-panel {
+  @apply rounded-[28px] border border-white/60 bg-white/75 shadow-panel backdrop-blur;
+}
+
+.section-title {
+  @apply text-sm font-semibold uppercase tracking-[0.22em] text-ocean/70;
+}
+
+.metric-card {
+  @apply glass-panel p-5;
+}
+
+.chip {
+  @apply inline-flex items-center gap-2 rounded-full border border-ink/10 bg-white px-4 py-2 text-sm font-medium text-ink transition hover:border-ember/40 hover:text-ember;
+}
+
+.chip-active {
+  @apply border-transparent bg-ink text-white;
+}
+
+.field-label {
+  @apply mb-2 block text-sm font-medium text-ink/75;
+}
+
+.field-input {
+  @apply w-full rounded-2xl border border-ink/10 bg-white/80 px-4 py-3 text-base text-ink outline-none transition focus:border-ocean focus:ring-2 focus:ring-ocean/20;
+}
+
+.primary-button {
+  @apply inline-flex items-center justify-center rounded-full bg-ink px-6 py-3 text-sm font-semibold text-white transition hover:bg-ocean disabled:cursor-not-allowed disabled:opacity-60;
+}
+
+.secondary-button {
+  @apply inline-flex items-center justify-center rounded-full border border-ink/10 bg-white px-6 py-3 text-sm font-semibold text-ink transition hover:border-ember/40 hover:text-ember;
+}
+
+.table-cell {
+  @apply px-4 py-3 text-sm text-ink/80;
+}
